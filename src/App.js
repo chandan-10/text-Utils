@@ -24,7 +24,7 @@ function App() {
           id="title"
           style={{ backgroundColor: "li" }}
         >
-          Text Utilities App
+          Text Utilities
         </h3>
         <TextBox showAlert={showAlert} />
         <Alert alert={alert} />
