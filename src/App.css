@@ -1,0 +1,50 @@
+html {
+  height:100%;
+}
+
+body {
+  margin:0;
+  background-color: mediumslateblue;
+}
+
+
+
+#title{
+  border: #6c3;
+  background-color: white;
+  margin: 0% 30%;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+#darkMode{
+  color: white;
+}
+strong{
+  text-align: center;
+  padding: 0% 25%;
+}
+.alert-box{
+  margin: 0% 37%;
+}
+#msg{
+  text-align: center;
+  padding: 0%;
+}
+
+#exampleFormControlTextarea1{
+  border: 3px solid black;
+}
+
+#title
+{
+  border: 3px solid black;
+}
+
+.btn{
+  border: 2px solid black;
+}
+#x,
+#y{
+  border: 2px solid rgb(0, 5, 5);
+}
